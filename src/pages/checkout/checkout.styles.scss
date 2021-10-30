@@ -22,7 +22,10 @@
       }
     }
   }
-
+  .remove-button:hover,
+  .remove-button:focus {
+    color: red;
+  }
   .total {
     margin-top: 30px;
     margin-left: auto;
